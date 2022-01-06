@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD studend at the [Department of Computer Science] (https://www.surrey.ac.uk/department-computer-science),  within the [Surrey Centre for Cyber Security (SCCS)](https://www.surrey.ac.uk/surrey-centre-cyber-security"). My PhD is aimed at exploring security analysis techniques of systems using emerging 5G technologies.
+I am currently a PhD studend at the [Department of Computer Science](https://www.surrey.ac.uk/department-computer-science),  within the [Surrey Centre for Cyber Security (SCCS)](https://www.surrey.ac.uk/surrey-centre-cyber-security"). My PhD is aimed at exploring security analysis techniques of systems using emerging 5G technologies.
 
 Research Interests
 ======
